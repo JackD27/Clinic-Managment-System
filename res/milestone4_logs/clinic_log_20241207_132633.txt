@@ -1,0 +1,2 @@
+Dec 07, 2024 1:27:00 PM commands.RegisterClinicalStaffCommand execute
+INFO: Clinical staff Dr. Jackson Davis registered.

@@ -1,0 +1,38 @@
+Dec 06, 2024 8:14:13 PM commands.DeactivateStaffMemberCommand execute
+INFO: Staff Amy Anguish deactivated.
+Dec 06, 2024 8:14:16 PM commands.DeactivateStaffMemberCommand execute
+INFO: Staff Evan Emergency deactivated.
+Dec 06, 2024 8:14:37 PM commands.AssignPatientToRoomCommand execute
+INFO: Patient Aandi Acute assigned to room 6
+Dec 06, 2024 8:15:05 PM commands.AddRecordToExistingPatientCommand execute
+INFO: Record added to patient Aandi Acute. Record: Visit on: 2024-12-14T10:45:42, Chief Complaint: Has covid, Body Temperature: 60.0°C
+Dec 06, 2024 8:15:18 PM commands.AssignPatientToRoomCommand execute
+INFO: Patient Aandi Acute assigned to room 3
+Dec 06, 2024 8:15:25 PM controller.ClinicController logClinicState
+INFO: Closing application. LIST OF ALL ROOMS, PATIENTS, AND STAFF:
+Dec 06, 2024 8:15:25 PM controller.ClinicController logClinicState
+INFO: Clinic Name: Cybernetic Implant Clinic
+Rooms:
+Front Waiting Room (Room #: 1)
+Triage (Room #: 2)
+Inside Waiting Room (Room #: 3)
+Exam_1 (Room #: 4)
+Surgical (Room #: 5)
+Emergency_Room (Room #: 6)
+Staff:
+Benny Bruise
+Frank Febrile
+Camila Crisis
+Denise Danger
+Patients:
+Doug Derm Room #: 1
+Greg Gastric Room #: 1
+Beth Bunion Room #: 2
+Clive Cardiac Room #: 3
+Aandi Acute Room #: 3
+Elise Enzyme Room #: 4
+Fatima Follicle Room #: 5
+Staff Helpers:
+Nurse Camila Crisis
+Dr. Benny Bruise
+

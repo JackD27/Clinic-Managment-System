@@ -1,0 +1,32 @@
+Dec 06, 2024 8:23:41 PM commands.DeactivateStaffMemberCommand execute
+INFO: Staff Amy Anguish deactivated.
+Dec 06, 2024 8:23:51 PM commands.RegisterClinicalStaffCommand execute
+INFO: Clinical staff Dr. Jackson Davis registered.
+Dec 06, 2024 8:23:55 PM controller.ClinicController logClinicState
+INFO: Closing application. LIST OF ALL ROOMS, PATIENTS, AND STAFF:
+Dec 06, 2024 8:23:55 PM controller.ClinicController logClinicState
+INFO: Clinic Name: Cybernetic Implant Clinic
+Rooms:
+Front Waiting Room (Room #: 1)
+Triage (Room #: 2)
+Inside Waiting Room (Room #: 3)
+Exam_1 (Room #: 4)
+Surgical (Room #: 5)
+Emergency_Room (Room #: 6)
+Staff:
+Benny Bruise
+Jackson Davis
+Evan Emergency
+Frank Febrile
+Camila Crisis
+Denise Danger
+Patients:
+Aandi Acute Room #: 1
+Doug Derm Room #: 1
+Greg Gastric Room #: 1
+Beth Bunion Room #: 2
+Clive Cardiac Room #: 3
+Elise Enzyme Room #: 4
+Fatima Follicle Room #: 5
+Staff Helpers:
+
